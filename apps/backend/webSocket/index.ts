@@ -1,0 +1,1 @@
+// This folder will contain the websockets logic of the app
